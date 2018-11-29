@@ -12,3 +12,13 @@ C:\home\workspace\asp.net\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.AssemblyInfo
 C:\home\workspace\asp.net\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.RazorTargetAssemblyInfo.cache
 C:\home\workspace\asp.net\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.dll
 C:\home\workspace\asp.net\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.pdb
+C:\home\workspace\asp.net\mywebapp\bin\Debug\netcoreapp2.1\mywebapp.Views.dll
+C:\home\workspace\asp.net\mywebapp\bin\Debug\netcoreapp2.1\mywebapp.Views.pdb
+C:\home\workspace\asp.net\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.TagHelpers.input.cache
+C:\home\workspace\asp.net\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.TagHelpers.output.cache
+C:\home\workspace\asp.net\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.RazorCoreGenerate.cache
+C:\home\workspace\asp.net\mywebapp\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\home\workspace\asp.net\mywebapp\obj\Debug\netcoreapp2.1\Razor\Pages\Solange\Index.g.cshtml.cs
+C:\home\workspace\asp.net\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.RazorTargetAssemblyInfo.cs
+C:\home\workspace\asp.net\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.Views.pdb
+C:\home\workspace\asp.net\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.csproj.CopyComplete
