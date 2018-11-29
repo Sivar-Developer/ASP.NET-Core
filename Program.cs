@@ -20,6 +20,6 @@ namespace mywebapp
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Beyonce>();
+                .UseStartup<Startup>();
     }
 }
