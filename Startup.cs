@@ -27,7 +27,7 @@ namespace mywebapp
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello Sivar!");
+                await context.Response.WriteAsync("<b>Hello Sivar!</b>");
             });
         }
     }
